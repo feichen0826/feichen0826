@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->🚀 Passionate Full-Stack Developer | Creative Design Enthusiast
 
-Hey there! 👋 I'm Faye, a versatile professional with a background in creative design and full-stack development.
+I'm Faye, a versatile professional with a background in creative design and full-stack development.
 
 🎓 Graduating with a master's degree in digital media production, I initially cut my teeth as a creative designer in a dynamic agency environment. Over the years, I've honed my skills in visual storytelling, user experience design, and digital media production.
 
