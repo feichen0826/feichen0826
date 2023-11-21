@@ -40,3 +40,10 @@ What fuels my enthusiasm in full-stack development is the thrill of problem-solv
 Outside the world of tech, you'll find me exploring the canvas with sketching and oil painting. Art is not just a hobby; it's my way of balancing the analytical with the imaginative.
 
 Let's connect! I'm eager to collaborate, learn, and contribute to projects that marry creativity with cutting-edge technology. 🚀✨
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
