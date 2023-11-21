@@ -25,11 +25,12 @@ Driven by a desire to bridge the gap between creativity and functionality, I mad
 
 🌐 Skills Snapshot:
 
-Front-End: JavaScript, React, Redux, HTML, CSS
-Back-End: Node.js, Express.js, Flask
-Databases: MySQL
-Tools & Version Control: Git, GitHub
-Responsive Design: Ensuring seamless user experiences across devices
+- **Front-End:** JavaScript, React, Redux, HTML, CSS
+- **Back-End:** Node.js, Express.js, Flask
+- **Databases:** MySQL
+- **Tools & Version Control:** Git, GitHub
+- **Responsive Design:** Ensuring seamless user experiences across devices
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
